@@ -1,0 +1,765 @@
+02/23/2022 21:15:17.727 [20272] info: nbmecore: ********************************************************************************
+02/23/2022 21:15:17.727 [20272] info: nbmecore: nablet MediaEngine Core
+02/23/2022 21:15:17.727 [20272] info: nbmecore: Version: 1.4.1993.0 (02/15/2022 00:07:37)
+02/23/2022 21:15:17.727 [20272] info: nbmecore: 
+02/23/2022 21:15:17.727 [20272] info: nbmecore: Windows Version: 6.02.9200
+02/23/2022 21:15:17.727 [20272] info: nbmecore: CPU: AMD Ryzen 5 3600 6-Core Processor              , Active Processors: 12
+02/23/2022 21:15:17.727 [20272] info: nbmecore: Host: DESKTOP-UTSC2FA
+02/23/2022 21:15:17.727 [20272] info: nbmecore: Application: 'transcode' v2.5.218
+02/23/2022 21:15:17.727 [20272] info: nbmecore: 
+02/23/2022 21:15:17.727 [20272] info: nbmecore: Date: 02/23/2022 22:15:17.727 [+1:00]
+02/23/2022 21:15:17.727 [20272] info: nbmecore: ********************************************************************************
+02/23/2022 21:15:17.727 [20272] info: nbmecore: 
+02/23/2022 21:15:17.728 [20272] info: nbmecore: ***************************************
+02/23/2022 21:15:17.728 [20272] info: nbmecore: TraceSetLevel=0
+02/23/2022 21:15:17.728 [20272] info: nbmecore: DebugSetLevel=0
+02/23/2022 21:15:17.728 [20272] info: nbmecore: InfoSetLevel=5
+02/23/2022 21:15:17.728 [20272] info: nbmecore: WarningSetLevel=0
+02/23/2022 21:15:17.728 [20272] info: nbmecore: ***************************************
+02/23/2022 21:15:17.728 [20272] info: nbmecore: initializing core library
+02/23/2022 21:15:17.768 [20272] info: mediaEngine: last reading position line=188, column=1
+02/23/2022 21:15:17.772 [20272] info: mediaEngine: elapsed time for initialization: 00:00:00.000
+02/23/2022 21:15:17.773 [20272] info: nbmecore: Class library loaded: nablet AVFormat Demultiplexer
+02/23/2022 21:15:17.843 [20272] warning: FFMPEG: [hls @ 0000018611e6b800] Can't support the subtitle(uri: subtitles_de.m3u8)
+02/23/2022 21:15:17.843 [20272] warning: FFMPEG: [hls @ 0000018611e6b800] Can't support the subtitle(uri: subtitles_en.m3u8)
+02/23/2022 21:15:17.843 [20272] warning: FFMPEG: [hls @ 0000018611e6b800] Can't support the subtitle(uri: subtitles_es.m3u8)
+02/23/2022 21:15:17.843 [20272] warning: FFMPEG: [hls @ 0000018611e6b800] Can't support the subtitle(uri: subtitles_fr.m3u8)
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Found audio stream index=0, type=MEAudioFormat_MPEG4AAC
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Found audio stream index=1, type=MEAudioFormat_MPEG4AAC
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Found audio stream index=2, type=MEAudioFormat_MPEG4AAC
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Found audio stream index=3, type=MEAudioFormat_MPEG4AAC
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Found video stream index=4, type=MEVideoFormat_H264
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Found video stream index=5, type=MEVideoFormat_H264
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Found video stream index=6, type=MEVideoFormat_H264
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Found video stream index=7, type=MEVideoFormat_H264
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Found video stream index=8, type=MEVideoFormat_H264
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Found video stream index=9, type=MEVideoFormat_H264
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Found video stream index=10, type=MEVideoFormat_H264
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Found video stream index=11, type=MEVideoFormat_H264
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: =========
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: Metadata:
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: =========
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: +-----+-------+
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: | key | Value |
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: +-----+-------+
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin:  Metadata Stream #0
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: | key             | Value   |
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: | variant_bitrate | 831270  |
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: | language        | en      |
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: | comment         | English |
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.704 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin:  Metadata Stream #1
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | key             | Value   |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | variant_bitrate | 831270  |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | language        | dubbing |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | comment         | Dubbing |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin:  Metadata Stream #2
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+----------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | key             | Value    |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+----------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | variant_bitrate | 10285391 |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | language        | en       |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | comment         | English  |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+----------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin:  Metadata Stream #3
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+----------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | key             | Value    |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+----------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | variant_bitrate | 10285391 |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | language        | dubbing  |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | comment         | Dubbing  |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+----------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin:  Metadata Stream #4
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+--------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | key             | Value  |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+--------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | variant_bitrate | 258157 |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+--------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin:  Metadata Stream #5
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+--------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | key             | Value  |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+--------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | variant_bitrate | 520929 |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+--------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin:  Metadata Stream #6
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+--------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | key             | Value  |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+--------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | variant_bitrate | 831270 |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+--------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin:  Metadata Stream #7
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | key             | Value   |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | variant_bitrate | 1144430 |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin:  Metadata Stream #8
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | key             | Value   |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: | variant_bitrate | 1558322 |
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.705 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin:  Metadata Stream #9
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: =====================
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: | key             | Value   |
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: | variant_bitrate | 4149264 |
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: ======================
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin:  Metadata Stream #10
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: ======================
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: | key             | Value   |
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: | variant_bitrate | 6214307 |
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: +-----------------+---------+
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: ======================
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin:  Metadata Stream #11
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: ======================
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: +-----------------+----------+
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: | key             | Value    |
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: +-----------------+----------+
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: | variant_bitrate | 10285391 |
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: +-----------------+----------+
+02/23/2022 21:15:23.706 [20272] info: medmxavfmt_plugin: 
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.706 [20272] info: nbmecore:  Stream #0, id=0 audio index=0 
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Audio
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEAudioFormat_MPEG4AAC
+02/23/2022 21:15:23.706 [20272] info: nbmecore: 
+02/23/2022 21:15:23.706 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:23.706 [20272] info: nbmecore: -----------
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AAC_PAYLOAD_TYPE           : kMEAACPayloadTypeADTS
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AUDIO_NUM_CHANNELS         : 2
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AUDIO_SAMPLES_PER_SECOND   : 48000
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AVG_BITRATE                : 131 kbit/s
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AUDIO_CHANNEL_MASK         : (FL|FR)
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_USER_DATA                  : present ( 16 byte(s))
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.706 [20272] info: nbmecore:  Stream #1, id=1 audio index=1 
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Audio
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEAudioFormat_MPEG4AAC
+02/23/2022 21:15:23.706 [20272] info: nbmecore: 
+02/23/2022 21:15:23.706 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:23.706 [20272] info: nbmecore: -----------
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AAC_PAYLOAD_TYPE           : kMEAACPayloadTypeADTS
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AUDIO_NUM_CHANNELS         : 2
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AUDIO_SAMPLES_PER_SECOND   : 48000
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AVG_BITRATE                : 131 kbit/s
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AUDIO_CHANNEL_MASK         : (FL|FR)
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_USER_DATA                  : present ( 16 byte(s))
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.706 [20272] info: nbmecore:  Stream #2, id=2 audio index=2 
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Audio
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEAudioFormat_MPEG4AAC
+02/23/2022 21:15:23.706 [20272] info: nbmecore: 
+02/23/2022 21:15:23.706 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:23.706 [20272] info: nbmecore: -----------
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AAC_PAYLOAD_TYPE           : kMEAACPayloadTypeADTS
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AUDIO_NUM_CHANNELS         : 6
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AUDIO_SAMPLES_PER_SECOND   : 48000
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AVG_BITRATE                : 327 kbit/s
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AUDIO_CHANNEL_MASK         : (FL|FR|FC|LFE|BL|BR)
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_USER_DATA                  : present ( 16 byte(s))
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.706 [20272] info: nbmecore:  Stream #3, id=3 audio index=3 
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Audio
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEAudioFormat_MPEG4AAC
+02/23/2022 21:15:23.706 [20272] info: nbmecore: 
+02/23/2022 21:15:23.706 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:23.706 [20272] info: nbmecore: -----------
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AAC_PAYLOAD_TYPE           : kMEAACPayloadTypeADTS
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AUDIO_NUM_CHANNELS         : 2
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AUDIO_SAMPLES_PER_SECOND   : 48000
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AVG_BITRATE                : 131 kbit/s
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_AUDIO_CHANNEL_MASK         : (FL|FR)
+02/23/2022 21:15:23.706 [20272] info: nbmecore: ME_MT_USER_DATA                  : present ( 16 byte(s))
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore:  Stream #4, id=4 video index=0 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/23/2022 21:15:23.707 [20272] info: nbmecore: 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:23.707 [20272] info: nbmecore: -----------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_SIZE                 : 426x180 pixels
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_RATE                 : 24 fps
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_AVG_BITRATE                : 258 kbit/s
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 256:109
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 7680:7739
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore:  Stream #5, id=5 video index=1 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/23/2022 21:15:23.707 [20272] info: nbmecore: 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:23.707 [20272] info: nbmecore: -----------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_SIZE                 : 640x272 pixels
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_RATE                 : 24 fps
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_AVG_BITRATE                : 521 kbit/s
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 256:109
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 544:545
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore:  Stream #6, id=6 video index=2 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/23/2022 21:15:23.707 [20272] info: nbmecore: 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:23.707 [20272] info: nbmecore: -----------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_SIZE                 : 640x272 pixels
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_RATE                 : 24 fps
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_AVG_BITRATE                : 831 kbit/s
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 256:109
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 544:545
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore:  Stream #7, id=7 video index=3 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/23/2022 21:15:23.707 [20272] info: nbmecore: 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:23.707 [20272] info: nbmecore: -----------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_SIZE                 : 960x408 pixels
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_RATE                 : 24 fps
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_AVG_BITRATE                : 1144 kbit/s
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 256:109
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 544:545
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore:  Stream #8, id=8 video index=4 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/23/2022 21:15:23.707 [20272] info: nbmecore: 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:23.707 [20272] info: nbmecore: -----------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_SIZE                 : 1280x544 pixels
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_RATE                 : 24 fps
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_AVG_BITRATE                : 1558 kbit/s
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 256:109
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 544:545
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore:  Stream #9, id=9 video index=5 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/23/2022 21:15:23.707 [20272] info: nbmecore: 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:23.707 [20272] info: nbmecore: -----------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_SIZE                 : 1920x818 pixels
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_RATE                 : 24 fps
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_AVG_BITRATE                : 4149 kbit/s
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 256:109
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 1636:1635
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore:  Stream #10, id=10 video index=6 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/23/2022 21:15:23.707 [20272] info: nbmecore: 
+02/23/2022 21:15:23.707 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:23.707 [20272] info: nbmecore: -----------
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_SIZE                 : 1920x818 pixels
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_FRAME_RATE                 : 24 fps
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_AVG_BITRATE                : 6214 kbit/s
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 256:109
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 1636:1635
+02/23/2022 21:15:23.707 [20272] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/23/2022 21:15:23.708 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.708 [20272] info: nbmecore:  Stream #11, id=11 video index=7 
+02/23/2022 21:15:23.708 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:23.708 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/23/2022 21:15:23.708 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/23/2022 21:15:23.708 [20272] info: nbmecore: 
+02/23/2022 21:15:23.708 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:23.708 [20272] info: nbmecore: -----------
+02/23/2022 21:15:23.708 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:23.708 [20272] info: nbmecore: ME_MT_FRAME_SIZE                 : 4096x1744 pixels
+02/23/2022 21:15:23.708 [20272] info: nbmecore: ME_MT_FRAME_RATE                 : 24 fps
+02/23/2022 21:15:23.708 [20272] info: nbmecore: ME_MT_AVG_BITRATE                : 10285 kbit/s
+02/23/2022 21:15:23.708 [20272] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 256:109
+02/23/2022 21:15:23.708 [20272] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 1:1
+02/23/2022 21:15:23.708 [20272] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/23/2022 21:15:23.709 [20272] info: nbmecore: Class library loaded: nablet FFmpeg Audio Decoder
+02/23/2022 21:15:23.709 [20272] info: nbmecore: IMESourceReader: using decoder='nablet FFmpeg Audio Decoder' CLSID={46F77948-7396-4040-8922-98DC7C4A266B}
+02/23/2022 21:15:23.709 [20272] info: nbmecore: IMESourceReader: using decoder='nablet FFmpeg Audio Decoder' CLSID={46F77948-7396-4040-8922-98DC7C4A266B}
+02/23/2022 21:15:23.710 [20272] info: nbmecore: IMESourceReader: using decoder='nablet FFmpeg Audio Decoder' CLSID={46F77948-7396-4040-8922-98DC7C4A266B}
+02/23/2022 21:15:23.710 [20272] info: nbmecore: IMESourceReader: using decoder='nablet FFmpeg Audio Decoder' CLSID={46F77948-7396-4040-8922-98DC7C4A266B}
+02/23/2022 21:15:23.712 [20272] info: nbmecore: Class library loaded: Intel® Media SDK H.264 Decoder
+02/23/2022 21:15:23.713 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation requested: MFX_IMPL_HARDWARE_ANY
+02/23/2022 21:15:24.099 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation obtained:  MFX_IMPL_SOFTWARE, Version: 1.27
+02/23/2022 21:15:24.099 [20272] info: nbmecore: IMESourceReader: using decoder='Intel® Media SDK H.264 Decoder' CLSID={0855C9AC-BC6F-4371-8954-671CCD4EC16F}
+02/23/2022 21:15:24.100 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation requested: MFX_IMPL_HARDWARE_ANY
+02/23/2022 21:15:24.444 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation obtained:  MFX_IMPL_SOFTWARE, Version: 1.27
+02/23/2022 21:15:24.444 [20272] info: nbmecore: IMESourceReader: using decoder='Intel® Media SDK H.264 Decoder' CLSID={0855C9AC-BC6F-4371-8954-671CCD4EC16F}
+02/23/2022 21:15:24.444 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation requested: MFX_IMPL_HARDWARE_ANY
+02/23/2022 21:15:24.814 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation obtained:  MFX_IMPL_SOFTWARE, Version: 1.27
+02/23/2022 21:15:24.814 [20272] info: nbmecore: IMESourceReader: using decoder='Intel® Media SDK H.264 Decoder' CLSID={0855C9AC-BC6F-4371-8954-671CCD4EC16F}
+02/23/2022 21:15:24.814 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation requested: MFX_IMPL_HARDWARE_ANY
+02/23/2022 21:15:25.179 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation obtained:  MFX_IMPL_SOFTWARE, Version: 1.27
+02/23/2022 21:15:25.179 [20272] info: nbmecore: IMESourceReader: using decoder='Intel® Media SDK H.264 Decoder' CLSID={0855C9AC-BC6F-4371-8954-671CCD4EC16F}
+02/23/2022 21:15:25.179 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation requested: MFX_IMPL_HARDWARE_ANY
+02/23/2022 21:15:25.525 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation obtained:  MFX_IMPL_SOFTWARE, Version: 1.27
+02/23/2022 21:15:25.525 [20272] info: nbmecore: IMESourceReader: using decoder='Intel® Media SDK H.264 Decoder' CLSID={0855C9AC-BC6F-4371-8954-671CCD4EC16F}
+02/23/2022 21:15:25.526 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation requested: MFX_IMPL_HARDWARE_ANY
+02/23/2022 21:15:25.862 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation obtained:  MFX_IMPL_SOFTWARE, Version: 1.27
+02/23/2022 21:15:25.862 [20272] info: nbmecore: IMESourceReader: using decoder='Intel® Media SDK H.264 Decoder' CLSID={0855C9AC-BC6F-4371-8954-671CCD4EC16F}
+02/23/2022 21:15:25.863 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation requested: MFX_IMPL_HARDWARE_ANY
+02/23/2022 21:15:26.204 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation obtained:  MFX_IMPL_SOFTWARE, Version: 1.27
+02/23/2022 21:15:26.204 [20272] info: nbmecore: IMESourceReader: using decoder='Intel® Media SDK H.264 Decoder' CLSID={0855C9AC-BC6F-4371-8954-671CCD4EC16F}
+02/23/2022 21:15:26.204 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation requested: MFX_IMPL_HARDWARE_ANY
+02/23/2022 21:15:26.549 [20272] info: mfxh264vd_plugin: Intel® Media SDK H.264 Decoder: MSDK implementation obtained:  MFX_IMPL_SOFTWARE, Version: 1.27
+02/23/2022 21:15:26.549 [20272] info: nbmecore: IMESourceReader: using decoder='Intel® Media SDK H.264 Decoder' CLSID={0855C9AC-BC6F-4371-8954-671CCD4EC16F}
+02/23/2022 21:15:26.551 [20272] info: nbmecore: Class library loaded: Avid DNX Video Encoder
+02/23/2022 21:15:26.551 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:26.551 [20272] info: nbmecore:  setting video encoder output type 
+02/23/2022 21:15:26.551 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:26.551 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/23/2022 21:15:26.551 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_AVDN
+02/23/2022 21:15:26.551 [20272] info: nbmecore: 
+02/23/2022 21:15:26.551 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:26.551 [20272] info: nbmecore: -----------
+02/23/2022 21:15:26.551 [20272] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/23/2022 21:15:26.551 [20272] info: nbmecore: ME_MT_FRAME_SIZE                 : 1920x1080 pixels
+02/23/2022 21:15:26.551 [20272] info: nbmecore: ME_MT_FRAME_RATE                 : 25 fps
+02/23/2022 21:15:26.551 [20272] info: nbmecore: ME_MT_FIELDS_INFO                : progressive scan
+02/23/2022 21:15:26.551 [20272] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 1:1
+02/23/2022 21:15:26.551 [20272] info: nbmecore: ME_MT_MINIMUM_DISPLAY_APERTURE   : (0,0,1920,1080)
+02/23/2022 21:15:26.554 [20272] info: metvpe_plugin: VPE: initializing AVX library
+02/23/2022 21:15:26.554 [20272] info: nbmecore: Class library loaded: nablet Video Processing Engine
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:26.555 [20272] info: nbmecore:  setting VPE Output Type 
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_YUY2
+02/23/2022 21:15:26.555 [20272] info: nbmecore: 
+02/23/2022 21:15:26.555 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:26.555 [20272] info: nbmecore: -----------
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ME_MT_FRAME_SIZE                 : 1920x1080 pixels
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ME_MT_FRAME_RATE                 : 25 fps
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ME_MT_FIELDS_INFO                : progressive scan
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 1:1
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ME_MT_MINIMUM_DISPLAY_APERTURE   : (0,0,1920,1080)
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ME_MT_VIDEO_PRIMARIES            : kMEColorPrimariesBT709
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ME_MT_TRANSFER_FUNCTION          : kMETransferFunction709
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ME_MT_YUV_MATRIX                 : kMETransferMatrixBT709
+02/23/2022 21:15:26.555 [20272] info: nbmecore: ME_MT_VIDEO_NOMINAL_RANGE        : kMENominalRange16_235
+02/23/2022 21:15:26.580 [20272] info: metvpe_plugin:  ================================================================
+02/23/2022 21:15:26.580 [20272] info: metvpe_plugin:  VPP(ID=0) Pipeline:
+02/23/2022 21:15:26.580 [20272] info: metvpe_plugin:  ================================================================
+02/23/2022 21:15:26.580 [20272] info: metvpe_plugin:  Input=448x192p24(0,0,426,180),'NV12', PAR=7680:7739
+02/23/2022 21:15:26.580 [20272] info: metvpe_plugin:    => Scaler=1920x1080p25(0,132,1920,816),'YUY2', PAR=1:1, BT.709
+02/23/2022 21:15:26.580 [20272] info: metvpe_plugin:  Output=1920x1080p25(0,0,1920,1080),'YUY2', PAR=1:1, BT.709
+02/23/2022 21:15:26.580 [20272] info: metvpe_plugin:  ----------------------------------------------------------------
+02/23/2022 21:15:26.582 [20272] info: nbmecore: Class library loaded: Intel® IPP Utilities
+02/23/2022 21:15:26.592 [20272] error: medmxavfmt_plugin: MediaEngine\plugins\medmxavfmt_plugin\av_stream.cpp:CMEAvStream::start(603): seeking failed
+02/23/2022 21:15:26.592 [20272] user: nbmecore: Source connector id=0, active streams=4
+02/23/2022 21:15:26.593 [20272] warning: FFMPEG: [hls @ 0000018611e6b800] maybe the m3u8 list sequence have been wraped.
+02/23/2022 21:15:26.951 [20272] warning: FFMPEG: [hls @ 0000018611e6b800] maybe the m3u8 list sequence have been wraped.
+02/23/2022 21:15:27.329 [20272] warning: FFMPEG: [hls @ 0000018611e6b800] maybe the m3u8 list sequence have been wraped.
+02/23/2022 21:15:27.674 [20272] warning: FFMPEG: [hls @ 0000018611e6b800] maybe the m3u8 list sequence have been wraped.
+02/23/2022 21:15:30.011 [20272] warning: FFMPEG: [hls @ 0000018611e6b800] maybe the m3u8 list sequence have been wraped.
+02/23/2022 21:15:30.042 [20272] warning: FFMPEG: [hls @ 0000018611e6b800] maybe the m3u8 list sequence have been wraped.
+02/23/2022 21:15:30.073 [20272] warning: FFMPEG: [hls @ 0000018611e6b800] maybe the m3u8 list sequence have been wraped.
+02/23/2022 21:15:30.996 [20272] info: mediaEngine: state changed: kNBMXFStateRunning
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: ****************************
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: Initialized Video Decoder
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: ****************************
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: +----------------------------------------------------------------------------+----------------------------------------------------------------------------+
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: | Original Settings                                                          | New Settings                                                               |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: +----------------------------------------------------------------------------+----------------------------------------------------------------------------+
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: | {                                                                          | {                                                                          |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |   AllocId                            = 0                                   |   AllocId                            = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |   reserved[]                         = {0,0}                               |   reserved[]                         = {0,0}                               |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |   reserved3                          = 0                                   |   reserved3                          = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |   AsyncDepth                         = 4                                   |   AsyncDepth                         = 4                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |   mfx {                                                                    |   mfx {                                                                    |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     reserved                         = {0,0,0,0,0,0,0}                     |     reserved                         = {0,0,0,0,0,0,0}                     |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     LowPower                         = 0                                   |     LowPower                         = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     BRCParamMultiplier               = 0                                   |     BRCParamMultiplier               = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     FrameInfo {                                                            |     FrameInfo {                                                            |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       reserved[]                     = {0,0,0,0}                           |       reserved[]                     = {0,0,0,0}                           |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       reserved4                      = 0                                   |       reserved4                      = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       BitDepthLuma                   = 0                                   |       BitDepthLuma                   = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       BitDepthChroma                 = 0                                   |       BitDepthChroma                 = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       Shift                          = 0                                   |       Shift                          = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       FrameId {                                                            |       FrameId {                                                            |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |         TemporalId                   = 0                                   |         TemporalId                   = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |         PriorityId                   = 0                                   |         PriorityId                   = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |         DependencyId                 = 0                                   |         DependencyId                 = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |         QualityId                    = 0                                   |         QualityId                    = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |         ViewId                       = 0                                   |         ViewId                       = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       }                                                                    |       }                                                                    |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       FourCC                         = 'NV12'(842094158)                   |       FourCC                         = 'NV12'(842094158)                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       Width                          = 432                                 |       Width                          = 432                                 |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       Height                         = 192                                 |       Height                         = 192                                 |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       CropX                          = 0                                   |       CropX                          = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       CropY                          = 0                                   |       CropY                          = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       CropW                          = 426                                 |       CropW                          = 426                                 |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       CropH                          = 180                                 |       CropH                          = 180                                 |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       BufferSize                     = 12583344                            |       BufferSize                     = 12583344                            |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       reserved5                      = 11796906                            |       reserved5                      = 11796906                            |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       FrameRateExtN                  = 48                                  |       FrameRateExtN                  = 48                                  |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       FrameRateExtD                  = 2                                   |       FrameRateExtD                  = 2                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       reserved3                      = 0                                   |       reserved3                      = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       AspectRatioW                   = 7680                                |       AspectRatioW                   = 7680                                |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       AspectRatioH                   = 7739                                |       AspectRatioH                   = 7739                                |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       PicStruct                      = 1                                   |       PicStruct                      = 1                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       ChromaFormat                   = 1                                   |       ChromaFormat                   = 1                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |       reserved2                      = 0                                   |       reserved2                      = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     }                                                                      |     }                                                                      |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     CodecId                          = 'AVC '(541283905)                   |     CodecId                          = 'AVC '(541283905)                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     CodecProfile                     = 77                                  |     CodecProfile                     = 77                                  |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     CodecLevel                       = 13                                  |     CodecLevel                       = 13                                  |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     NumThread                        = 0                                   |     NumThread                        = 4                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     TargetUsage                      = 0                                   |     TargetUsage                      = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     GopPicSize                       = 1                                   |     GopPicSize                       = 1                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     GopRefDist                       = 0                                   |     GopRefDist                       = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     GopOptFlag                       = 0                                   |     GopOptFlag                       = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     IdrInterval                      = 4                                   |     IdrInterval                      = 4                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     RateControlMethod                = 0                                   |     RateControlMethod                = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     InitialDelayInKB                 = 0                                   |     InitialDelayInKB                 = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     QPI                              = 0                                   |     QPI                              = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     Accuracy                         = 0                                   |     Accuracy                         = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     BufferSizeInKB                   = 0                                   |     BufferSizeInKB                   = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     TargetKbps                       = 0                                   |     TargetKbps                       = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     QPP                              = 0                                   |     QPP                              = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     ICQQuality                       = 0                                   |     ICQQuality                       = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     MaxKbps                          = 0                                   |     MaxKbps                          = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     QPB                              = 0                                   |     QPB                              = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     Convergence                      = 0                                   |     Convergence                      = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     NumSlice                         = 0                                   |     NumSlice                         = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     NumRefFrame                      = 0                                   |     NumRefFrame                      = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     EncodedOrder                     = 0                                   |     EncodedOrder                     = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     DecodedOrder                     = 0                                   |     DecodedOrder                     = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     ExtendedPicStruct                = 1                                   |     ExtendedPicStruct                = 1                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     TimeStampCalc                    = 0                                   |     TimeStampCalc                    = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     SliceGroupsPresent               = 0                                   |     SliceGroupsPresent               = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     MaxDecFrameBuffering             = 4                                   |     MaxDecFrameBuffering             = 4                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     reserved2                        = {0,0,0,0,0,0,0,0}                   |     reserved2                        = {0,0,0,0,0,0,0,0}                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     JPEGChromaFormat                 = 0                                   |     JPEGChromaFormat                 = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     Rotation                         = 1                                   |     Rotation                         = 1                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     JPEGColorFormat                  = 0                                   |     JPEGColorFormat                  = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     InterleavedDec                   = 0                                   |     InterleavedDec                   = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     reserved3                        = {0,0,0,0,0,0,0,0,0}                 |     reserved3                        = {0,0,0,0,0,0,0,0,0}                 |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     Interleaved                      = 0                                   |     Interleaved                      = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     Quality                          = 1                                   |     Quality                          = 1                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     RestartInterval                  = 0                                   |     RestartInterval                  = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |     reserved5[]                      = {0,4,0,0,0,0,0,0,0,0}               |     reserved5[]                      = {0,4,0,0,0,0,0,0,0,0}               |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |   }                                                                        |   }                                                                        |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |   Protected                          = 0                                   |   Protected                          = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |   IOPattern                          = MFX_IOPATTERN_OUT_SYSTEM_MEMORY(32) |   IOPattern                          = MFX_IOPATTERN_OUT_SYSTEM_MEMORY(32) |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |   ExtParam {                                                               |   ExtParam {                                                               |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |   }                                                                        |   }                                                                        |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |   NumExtParam                        = 0                                   |   NumExtParam                        = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: |   reserved2                          = 0                                   |   reserved2                          = 0                                   |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: | }                                                                          | }                                                                          |
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: +----------------------------------------------------------------------------+----------------------------------------------------------------------------+
+02/23/2022 21:15:31.002 [20272] info: mfxh264vd_plugin: 
+02/23/2022 21:15:31.168 [20272] info: mediaEngine: SourceConnector: first sample arrived at stream=1, PTS=00:00:00.104, discard=0
+02/23/2022 21:15:31.171 [20272] info: mediaEngine: SourceConnector: first sample arrived at stream=2, PTS=00:00:00.104, discard=0
+02/23/2022 21:15:31.293 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:31.293 [20272] info: nbmecore:  VPE: New input MediaType (stream id=0): 
+02/23/2022 21:15:31.293 [20272] info: nbmecore: ----------------------------------------------------------------------
+02/23/2022 21:15:31.293 [20272] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/23/2022 21:15:31.293 [20272] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_NV12
+02/23/2022 21:15:31.293 [20272] info: nbmecore: 
+02/23/2022 21:15:31.293 [20272] info: nbmecore: Attributes:
+02/23/2022 21:15:31.293 [20272] info: nbmecore: -----------
+02/23/2022 21:15:31.293 [20272] info: nbmecore: ME_MT_ALL_SAMPLES_INDEPENDENT    : true
+02/23/2022 21:15:31.293 [20272] info: nbmecore: ME_MT_COMPRESSED                 : false
+02/23/2022 21:15:31.293 [20272] info: nbmecore: ME_MT_FRAME_SIZE                 : 448x192 pixels
+02/23/2022 21:15:31.293 [20272] info: nbmecore: ME_MT_FRAME_RATE                 : 24 fps
+02/23/2022 21:15:31.293 [20272] info: nbmecore: ME_MT_FIELDS_INFO                : progressive scan
+02/23/2022 21:15:31.293 [20272] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 7680:7739
+02/23/2022 21:15:31.293 [20272] info: nbmecore: ME_MT_MINIMUM_DISPLAY_APERTURE   : (0,0,426,180)
+02/23/2022 21:15:31.293 [20272] info: nbmecore: ME_MT_VIDEO_NOMINAL_RANGE        : kMENominalRange16_235
+02/23/2022 21:15:31.293 [20272] info: mediaEngine: SourceConnector: first sample arrived at stream=0, PTS=00:00:00.104, discard=0
+02/23/2022 21:15:31.448 [20272] info: mediaEngine: SourceConnector: first sample arrived at stream=4, PTS=00:00:02.125, discard=0
+02/23/2022 21:15:31.448 [20272] info: mediaEngine: AudioSyncConnector: setting sync pos at video pos(90kHz)=191250|00:00:02.125 for audio stream index=0
+02/23/2022 21:15:31.448 [20272] info: mediaEngine: AudioSyncConnector: setting sync pos at video pos(90kHz)=191250|00:00:02.125 for audio stream index=0
+02/23/2022 21:15:31.448 [20272] info: mediaEngine: AudioSyncConnector: setting sync pos at video pos(90kHz)=191250|00:00:02.125 for audio stream index=0
+02/23/2022 21:15:31.467 [20272] info: metvpe_plugin:  ================================================================
+02/23/2022 21:15:31.467 [20272] info: metvpe_plugin:  VPP(ID=0) Pipeline:
+02/23/2022 21:15:31.467 [20272] info: metvpe_plugin:  ================================================================
+02/23/2022 21:15:31.467 [20272] info: metvpe_plugin:  Input=448x192p24(0,0,426,180),'NV12', PAR=7680:7739
+02/23/2022 21:15:31.467 [20272] info: metvpe_plugin:    => Scaler=1920x1080p25(0,132,1920,816),'YUY2', PAR=1:1, BT.709
+02/23/2022 21:15:31.467 [20272] info: metvpe_plugin:  Output=1920x1080p25(0,0,1920,1080),'YUY2', PAR=1:1, BT.709
+02/23/2022 21:15:31.467 [20272] info: metvpe_plugin:  ----------------------------------------------------------------
+02/23/2022 21:15:31.473 [20272] info: mediaEngine: AudioSyncConnector(ID=9): syncing audio (-96880 samples) to video PTS(90kHz)=191250|00:00:02.125, audio buffer PTS(90kHz)=17|00:00:00.107
+02/23/2022 21:15:31.474 [20272] info: mediaEngine: AudioSyncConnector(ID=13): syncing audio (-96880 samples) to video PTS(90kHz)=191250|00:00:02.125, audio buffer PTS(90kHz)=17|00:00:00.107
+02/23/2022 21:15:31.474 [20272] info: mediaEngine: MXF: first sample has arrived: index=4, PTS(90kHz)=191250, Duration(90kHz)=3600, CP=1, FT=0 DC=0
+02/23/2022 21:15:31.475 [20272] info: mediaEngine: MXF: first sample has arrived: index=3, PTS(90kHz)=191250, Duration(90kHz)=3600, CP=1, FT=0 DC=0
+02/23/2022 21:15:31.476 [20272] info: mediaEngine: AudioSyncConnector(ID=5): syncing audio (-96880 samples) to video PTS(90kHz)=191250|00:00:02.125, audio buffer PTS(90kHz)=17|00:00:00.107
+02/23/2022 21:15:31.476 [20272] info: mediaEngine: MXF: first sample has arrived: index=7, PTS(90kHz)=191250, Duration(90kHz)=3600, CP=1, FT=0 DC=0
+02/23/2022 21:15:31.476 [20272] info: mediaEngine: MXF: first sample has arrived: index=6, PTS(90kHz)=191250, Duration(90kHz)=3600, CP=1, FT=0 DC=0
+02/23/2022 21:15:31.476 [20272] info: mediaEngine: MXF: first sample has arrived: index=5, PTS(90kHz)=191250, Duration(90kHz)=3600, CP=1, FT=0 DC=0
+02/23/2022 21:15:31.476 [20272] info: mediaEngine: MXF: first sample has arrived: index=8, PTS(90kHz)=191250, Duration(90kHz)=3600, CP=1, FT=0 DC=0
+02/23/2022 21:15:31.477 [20272] info: mediaEngine: MXF: first sample has arrived: index=2, PTS(90kHz)=191250, Duration(90kHz)=3600, CP=1, FT=0 DC=0
+02/23/2022 21:15:31.477 [20272] info: mediaEngine: MXF: first sample has arrived: index=1, PTS(90kHz)=191250, Duration(90kHz)=3600, CP=1, FT=0 DC=0
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin: *************************************************
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  DNX Encoder Compressed Settings
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin: *************************************************
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  width:           0
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  height:          0
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  compressionID:   DNX_LB_1080p_COMPRESSION_ID(1253)
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  colorVolume:     DNX_CV_INVALID(0)
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  colorFormat:     DNX_CF_INVALID(0)
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  subSampling:     DNX_SSC_INVALID(0)
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  depth:           0
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  PARC:            0
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  PARN:            0
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  CRCpresence:     0
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  VBR:             0
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  alphaPresence:   0
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  losslessAlpha:   0
+02/23/2022 21:15:31.477 [20272] info: meencdnx_plugin:  premultAlpha:    0
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin: *************************************************
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  DNX Encoder Uncompressed Settings
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin: *************************************************
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  compType:             DNX_CT_UCHAR(1)
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  colorVolume:          DNX_CV_709(1)
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  colorFormat:          DNX_CF_YCbCr(1)
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  compOrder:            DNX_CCO_YCbYCr_NoA(1)
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  fieldOrder:           DNX_BFO_Progressive(64)
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  rgt:                  DNX_RGT_Display(1)
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  interFieldGapBytes:   0
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  rowBytes:             3840
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  blackPoint:           0
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  whitePoint:           0
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  chromaExcursion:      0
+02/23/2022 21:15:31.478 [20272] info: meencdnx_plugin:  rowBytes2:            0
+02/23/2022 21:15:31.575 [20272] info: mediaEngine: MXF: first sample has arrived: index=0, PTS(90kHz)=191250, Duration(90kHz)=3600, CP=1, FT=0 DC=0
+02/23/2022 21:15:31.586 [20272] info: mediaEngine: NBMXF: Initialization of DNxHD muxing engine
+02/23/2022 21:15:31.589 [20272] info: mediaEngine: MXF: writing first sample with PTS(90kHz)=191250, index=0
+02/23/2022 21:15:31.590 [20272] info: mediaEngine: MXF: writing first sample with PTS(90kHz)=0, index=1
+02/23/2022 21:15:31.590 [20272] info: mediaEngine: MXF: writing first sample with PTS(90kHz)=0, index=2
+02/23/2022 21:15:31.590 [20272] info: mediaEngine: MXF: writing first sample with PTS(90kHz)=0, index=3
+02/23/2022 21:15:31.590 [20272] info: mediaEngine: MXF: writing first sample with PTS(90kHz)=0, index=4
+02/23/2022 21:15:31.590 [20272] info: mediaEngine: MXF: writing first sample with PTS(90kHz)=0, index=5
+02/23/2022 21:15:31.590 [20272] info: mediaEngine: MXF: writing first sample with PTS(90kHz)=0, index=6
+02/23/2022 21:15:31.590 [20272] info: mediaEngine: MXF: writing first sample with PTS(90kHz)=0, index=7
+02/23/2022 21:15:31.590 [20272] info: mediaEngine: MXF: writing first sample with PTS(90kHz)=0, index=8
+02/23/2022 21:16:06.114 [20272] info: mediaEngine: ===============================
+02/23/2022 21:16:06.114 [20272] info: mediaEngine: === SECoreStop was called   ===
+02/23/2022 21:16:06.114 [20272] info: mediaEngine: ===============================
+02/23/2022 21:16:06.120 [20272] info: nbmecore: SourceReader: stream was stopped index=0
+02/23/2022 21:16:06.120 [20272] info: nbmecore: SourceReader: stream was stopped index=1
+02/23/2022 21:16:06.120 [20272] info: nbmecore: SourceReader: stream was stopped index=2
+02/23/2022 21:16:06.120 [20272] info: nbmecore: SourceReader: stream was stopped index=4
+02/23/2022 21:16:06.126 [20272] info: mediaEngine: RenderItemSourceConnector: all streams stopped
+02/23/2022 21:16:06.128 [20272] info: metvpe_plugin: VPE: framerate converter was drained
+02/23/2022 21:16:06.128 [20272] debug: metvpe_plugin: MediaEngine\plugins\metvpe_plugin\metvpe.cpp:CMEVPE::asyncThreadFunc(7971): VPE was drained, workInSurfaces=0
+02/23/2022 21:16:06.140 [20272] info: mediaEngine: transcoder has stopped
+02/23/2022 21:16:06.183 [20272] info: mediaEngine: ====================================
+02/23/2022 21:16:06.183 [20272] info: mediaEngine: Render Item Source Connector (ID=1)
+02/23/2022 21:16:06.183 [20272] info: mediaEngine: ====================================
+02/23/2022 21:16:06.183 [20272] info: mediaEngine: Output stream=0, sample count=1726, total_input_request_count=1727
+02/23/2022 21:16:06.183 [20272] info: mediaEngine: Output stream=1, sample count=1726, total_input_request_count=1727
+02/23/2022 21:16:06.183 [20272] info: mediaEngine: Output stream=2, sample count=1726, total_input_request_count=1727
+02/23/2022 21:16:06.183 [20272] info: mediaEngine: Output stream=4, sample count=835, total_input_request_count=836
+02/23/2022 21:16:06.183 [20272] info: mediaEngine: 
+02/23/2022 21:16:06.189 [20272] info: mediaEngine: render time for 835 video frames: 39.606 second(s), FPS=21.1
+02/23/2022 21:16:06.189 [20272] user: nbmecore: stats->current_frames_rendered = 835
+02/23/2022 21:16:06.189 [20272] user: nbmecore: frame_count = 835
+02/23/2022 21:16:06.189 [20272] info: mediaEngine: state changed: kNBMXFStateStopped
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: ==============================================
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin:  DMX AVFormat Source stats
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: ==============================================
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: Stream index=0, type=audio, sample count=1772, total samples sent=1727
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: Stream index=1, type=audio, sample count=1772, total samples sent=1727
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: Stream index=2, type=audio, sample count=1772, total samples sent=1727
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: Stream index=3, type=audio, sample count=0, total samples sent=0
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: Stream index=4, type=video, sample count=862, total samples sent=842
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: Stream index=5, type=video, sample count=0, total samples sent=0
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: Stream index=6, type=video, sample count=0, total samples sent=0
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: Stream index=7, type=video, sample count=0, total samples sent=0
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: Stream index=8, type=video, sample count=0, total samples sent=0
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: Stream index=9, type=video, sample count=0, total samples sent=0
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: Stream index=10, type=video, sample count=0, total samples sent=0
+02/23/2022 21:16:06.189 [20272] info: medmxavfmt_plugin: Stream index=11, type=video, sample count=0, total samples sent=0
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: ============================
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: Audio Sync Connector (ID=5)
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: ============================
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: Input  stream=0, sample count=1726, total_input_request_count=1727
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: Output stream=0, sample count=408, total_input_request_count=409
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: Audio samples count=1670544, input sample count=1632, output sample count=408
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: 
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: ============================
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: Audio Sync Connector (ID=9)
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: ============================
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: Input  stream=0, sample count=1726, total_input_request_count=1727
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: Output stream=0, sample count=408, total_input_request_count=409
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: Audio samples count=1670544, input sample count=1632, output sample count=408
+02/23/2022 21:16:06.195 [20272] info: mediaEngine: 
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: =============================
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: Audio Sync Connector (ID=13)
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: =============================
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: Input  stream=0, sample count=1726, total_input_request_count=1727
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: Output stream=0, sample count=408, total_input_request_count=409
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: Audio samples count=1670544, input sample count=1632, output sample count=408
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: 
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: ==================================================================
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: Transform Connector (ID=3), Name='nablet Video Processing Engine'
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: ==================================================================
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: Input  stream=0, sample count=835
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: Output stream=0, sample count=870
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: 
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: ==========================================================
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: Transform Connector (ID=2), Name='Avid DNX Video Encoder'
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: ==========================================================
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: Input  stream=0, sample count=870
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: Output stream=0, sample count=870
+02/23/2022 21:16:06.196 [20272] info: mediaEngine: 
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: --------------------------------------------------------------------------------
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: VPP(ID=0):
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: ----------
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: m_iNumberInputSamples                 = 835
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: m_iNumberOfProcessedInterlacerSamples = 0
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: m_iNumberRequestedSamples             = 835
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: m_iNumberOutputSamples                = 870
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: m_uiDeinterlacerInputSurfaceCount     = 0 (*2 => 0)
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: m_uiDeinterlacerSurfaceUnlockCount    = 0
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: m_uiFramerateNewInputFrameCount       = 835
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: m_uiFramerateInputFrameCount          = 834
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: m_uiFramerateOutputFrameCount         = 870
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: m_uiInputSkipFrameCount               = 835
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: m_uiTotalRepeatedFrames               = 0
+02/23/2022 21:16:06.196 [20272] info: metvpe_plugin: --------------------------------------------------------------------------------
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: =================================
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: Audio Converter Connector (ID=6)
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: =================================
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: Input  stream=0, sample count=408, total_input_request_count=409, total_audio_samples_count=1670544
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: Output stream=0, sample count=871, total_input_request_count=872
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: Total output samples=1670544
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: =================================
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: Audio Converter Connector (ID=7)
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: =================================
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: Input  stream=0, sample count=408, total_input_request_count=409, total_audio_samples_count=1670544
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: Output stream=0, sample count=871, total_input_request_count=872
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: Total output samples=1670544
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: ==================================
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: Audio Converter Connector (ID=10)
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: ==================================
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: Input  stream=0, sample count=408, total_input_request_count=409, total_audio_samples_count=1670544
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: Output stream=0, sample count=871, total_input_request_count=872
+02/23/2022 21:16:06.199 [20272] info: mediaEngine: Total output samples=1670544
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: ==================================
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Audio Converter Connector (ID=11)
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: ==================================
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Input  stream=0, sample count=408, total_input_request_count=409, total_audio_samples_count=1670544
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Output stream=0, sample count=871, total_input_request_count=872
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Total output samples=1670544
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: ==================================
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Audio Converter Connector (ID=14)
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: ==================================
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Input  stream=0, sample count=408, total_input_request_count=409, total_audio_samples_count=1670544
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Output stream=0, sample count=871, total_input_request_count=872
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Total output samples=1670544
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: ==================================
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Audio Converter Connector (ID=15)
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: ==================================
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Input  stream=0, sample count=408, total_input_request_count=409, total_audio_samples_count=1670544
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Output stream=0, sample count=871, total_input_request_count=872
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Total output samples=1670544
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: ==================================
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Audio Converter Connector (ID=16)
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: ==================================
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Input  stream=0, sample count=408, total_input_request_count=409, total_audio_samples_count=1670544
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Output stream=0, sample count=871, total_input_request_count=872
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Total output samples=1670544
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: ==================================
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Audio Converter Connector (ID=17)
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: ==================================
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Input  stream=0, sample count=408, total_input_request_count=409, total_audio_samples_count=1670544
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Output stream=0, sample count=871, total_input_request_count=872
+02/23/2022 21:16:06.200 [20272] info: mediaEngine: Total output samples=1670544
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: =========================================
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: Render Item Sink Connector (Output ID=0)
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: =========================================
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: Stream index=0, input samples=870, output samples=870
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: Stream index=1, input samples=871, output samples=871
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: Stream index=2, input samples=871, output samples=871
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: Stream index=3, input samples=871, output samples=871
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: Stream index=4, input samples=871, output samples=871
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: Stream index=5, input samples=871, output samples=871
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: Stream index=6, input samples=871, output samples=871
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: Stream index=7, input samples=871, output samples=871
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: Stream index=8, input samples=871, output samples=871
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: NBMXF: roll-out uinits: 0
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: NBMXF: closing muxer instance #0
+02/23/2022 21:16:06.201 [20272] info: mediaEngine: NBMXF: MXF muxer closing
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: MXFMux: =========================================
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: MXFMux: Muxer Stats
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: MXFMux: =========================================
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: MXFMux: stream index=0, type=video, samples=870
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: MXFMux: stream index=1, type=audio, samples=870, audio samples=1670400
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: MXFMux: stream index=2, type=audio, samples=870, audio samples=1670400
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: MXFMux: stream index=3, type=audio, samples=870, audio samples=1670400
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: MXFMux: stream index=4, type=audio, samples=870, audio samples=1670400
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: MXFMux: stream index=5, type=audio, samples=870, audio samples=1670400
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: MXFMux: stream index=6, type=audio, samples=870, audio samples=1670400
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: MXFMux: stream index=7, type=audio, samples=870, audio samples=1670400
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: MXFMux: stream index=8, type=audio, samples=870, audio samples=1670400
+02/23/2022 21:16:06.233 [20272] info: mediaEngine: CMESinkSplitterNotifierCB::invoke: output ID=0, filename='TestRecordingTask_2.mxf', start=191250(90kHz), end=3323250(90kHz)
+02/23/2022 21:16:06.234 [20272] info: mediaEngine: shutting down mediaEngine instance
+02/23/2022 21:16:06.235 [20272] info: nbmecore: closing core library

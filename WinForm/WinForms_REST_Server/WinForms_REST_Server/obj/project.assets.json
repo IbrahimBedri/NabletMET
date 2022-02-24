@@ -1,0 +1,201 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0-windows7.0": {
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NLog/4.7.13": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NLog.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {}
+        }
+      },
+      "NLog.Windows.Forms/4.5.0": {
+        "type": "package",
+        "dependencies": {
+          "NLog": "4.7.11"
+        },
+        "compile": {
+          "lib/net5.0-windows7.0/NLog.Windows.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/NLog.Windows.Forms.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "NLog/4.7.13": {
+      "sha512": "AvoGpCuq36B+0wY313XA6gC+YeMvk24rqF8P+HS9fInBGOjCzPjpXp2ln9ATZjPOJtXgHfc8zNmTjyswFGLxvg==",
+      "type": "package",
+      "path": "nlog/4.7.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid44/NLog.dll",
+        "lib/monoandroid44/NLog.xml",
+        "lib/net35/NLog.dll",
+        "lib/net35/NLog.xml",
+        "lib/net40-client/NLog.dll",
+        "lib/net40-client/NLog.xml",
+        "lib/net45/NLog.dll",
+        "lib/net45/NLog.xml",
+        "lib/netstandard1.3/NLog.dll",
+        "lib/netstandard1.3/NLog.xml",
+        "lib/netstandard1.5/NLog.dll",
+        "lib/netstandard1.5/NLog.xml",
+        "lib/netstandard2.0/NLog.dll",
+        "lib/netstandard2.0/NLog.xml",
+        "lib/sl4/NLog.dll",
+        "lib/sl4/NLog.xml",
+        "lib/sl5/NLog.dll",
+        "lib/sl5/NLog.xml",
+        "lib/wp8/NLog.dll",
+        "lib/wp8/NLog.xml",
+        "lib/xamarinios10/NLog.dll",
+        "lib/xamarinios10/NLog.xml",
+        "nlog.4.7.13.nupkg.sha512",
+        "nlog.nuspec"
+      ]
+    },
+    "NLog.Windows.Forms/4.5.0": {
+      "sha512": "PuPq5CAwydKdIhlsfPcx8Q8/dQIRL8vKbyyj8n9rnDFfZmu4TuRH2pfLzzrCfcudN6wJnumxxCYhu5j4W6pHqw==",
+      "type": "package",
+      "path": "nlog.windows.forms/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "N.png",
+        "lib/net35/NLog.Windows.Forms.dll",
+        "lib/net35/NLog.Windows.Forms.xml",
+        "lib/net5.0-windows7.0/NLog.Windows.Forms.dll",
+        "lib/net5.0-windows7.0/NLog.Windows.Forms.xml",
+        "lib/netcoreapp3.1/NLog.Windows.Forms.dll",
+        "lib/netcoreapp3.1/NLog.Windows.Forms.xml",
+        "nlog.windows.forms.4.5.0.nupkg.sha512",
+        "nlog.windows.forms.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0-windows7.0": [
+      "NLog >= 4.7.13",
+      "NLog.Windows.Forms >= 4.5.0",
+      "Newtonsoft.Json >= 13.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ibrahim Bedri\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ibrahim Bedri\\Desktop\\finalkod\\WinForms_REST_Server\\WinForms_REST_Server\\WinForms_REST_Server.csproj",
+      "projectName": "WinForms_REST_Server",
+      "projectPath": "C:\\Users\\Ibrahim Bedri\\Desktop\\finalkod\\WinForms_REST_Server\\WinForms_REST_Server\\WinForms_REST_Server.csproj",
+      "packagesPath": "C:\\Users\\Ibrahim Bedri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ibrahim Bedri\\Desktop\\finalkod\\WinForms_REST_Server\\WinForms_REST_Server\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Ibrahim Bedri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0-windows7.0": {
+        "targetAlias": "net5.0-windows",
+        "dependencies": {
+          "NLog": {
+            "target": "Package",
+            "version": "[4.7.13, )"
+          },
+          "NLog.Windows.Forms": {
+            "target": "Package",
+            "version": "[4.5.0, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

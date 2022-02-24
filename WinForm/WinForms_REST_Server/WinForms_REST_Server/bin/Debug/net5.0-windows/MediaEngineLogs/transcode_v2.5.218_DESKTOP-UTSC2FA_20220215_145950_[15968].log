@@ -1,0 +1,22 @@
+02/15/2022 13:59:50.327 [15968] info: nbmecore: ********************************************************************************
+02/15/2022 13:59:50.327 [15968] info: nbmecore: nablet MediaEngine Core
+02/15/2022 13:59:50.327 [15968] info: nbmecore: Version: 1.4.1993.0 (02/15/2022 00:07:37)
+02/15/2022 13:59:50.327 [15968] info: nbmecore: 
+02/15/2022 13:59:50.327 [15968] info: nbmecore: Windows Version: 6.02.9200
+02/15/2022 13:59:50.327 [15968] info: nbmecore: CPU: AMD Ryzen 5 3600 6-Core Processor              , Active Processors: 12
+02/15/2022 13:59:50.327 [15968] info: nbmecore: Host: DESKTOP-UTSC2FA
+02/15/2022 13:59:50.327 [15968] info: nbmecore: Application: 'transcode' v2.5.218
+02/15/2022 13:59:50.327 [15968] info: nbmecore: 
+02/15/2022 13:59:50.327 [15968] info: nbmecore: Date: 02/15/2022 14:59:50.327 [+1:00]
+02/15/2022 13:59:50.327 [15968] info: nbmecore: ********************************************************************************
+02/15/2022 13:59:50.327 [15968] info: nbmecore: 
+02/15/2022 13:59:50.327 [15968] info: nbmecore: ***************************************
+02/15/2022 13:59:50.327 [15968] info: nbmecore: TraceSetLevel=0
+02/15/2022 13:59:50.327 [15968] info: nbmecore: DebugSetLevel=0
+02/15/2022 13:59:50.327 [15968] info: nbmecore: InfoSetLevel=5
+02/15/2022 13:59:50.327 [15968] info: nbmecore: WarningSetLevel=0
+02/15/2022 13:59:50.327 [15968] info: nbmecore: ***************************************
+02/15/2022 13:59:50.327 [15968] info: nbmecore: initializing core library
+02/15/2022 13:59:50.354 [15968] error: mediaEngine: SchnittEngine\src\core\core.cpp:CSECore::loadConfigurationGroupsFromFile(1984): Parsing the configuration file failed.
+02/15/2022 13:59:50.373 [15968] info: mediaEngine: shutting down mediaEngine instance
+02/15/2022 13:59:50.374 [15968] info: nbmecore: closing core library

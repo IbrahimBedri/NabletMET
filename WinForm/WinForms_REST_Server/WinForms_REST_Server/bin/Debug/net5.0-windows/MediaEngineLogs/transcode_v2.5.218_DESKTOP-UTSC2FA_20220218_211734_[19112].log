@@ -1,0 +1,23 @@
+02/18/2022 20:17:34.942 [19112] info: nbmecore: ********************************************************************************
+02/18/2022 20:17:34.942 [19112] info: nbmecore: nablet MediaEngine Core
+02/18/2022 20:17:34.942 [19112] info: nbmecore: Version: 1.4.1993.0 (02/15/2022 00:07:37)
+02/18/2022 20:17:34.942 [19112] info: nbmecore: 
+02/18/2022 20:17:34.942 [19112] info: nbmecore: Windows Version: 6.02.9200
+02/18/2022 20:17:34.942 [19112] info: nbmecore: CPU: AMD Ryzen 5 3600 6-Core Processor              , Active Processors: 12
+02/18/2022 20:17:34.942 [19112] info: nbmecore: Host: DESKTOP-UTSC2FA
+02/18/2022 20:17:34.942 [19112] info: nbmecore: Application: 'transcode' v2.5.218
+02/18/2022 20:17:34.942 [19112] info: nbmecore: 
+02/18/2022 20:17:34.942 [19112] info: nbmecore: Date: 02/18/2022 21:17:34.942 [+1:00]
+02/18/2022 20:17:34.942 [19112] info: nbmecore: ********************************************************************************
+02/18/2022 20:17:34.942 [19112] info: nbmecore: 
+02/18/2022 20:17:34.944 [19112] info: nbmecore: ***************************************
+02/18/2022 20:17:34.944 [19112] info: nbmecore: TraceSetLevel=0
+02/18/2022 20:17:34.944 [19112] info: nbmecore: DebugSetLevel=0
+02/18/2022 20:17:34.944 [19112] info: nbmecore: InfoSetLevel=5
+02/18/2022 20:17:34.944 [19112] info: nbmecore: WarningSetLevel=0
+02/18/2022 20:17:34.944 [19112] info: nbmecore: ***************************************
+02/18/2022 20:17:34.944 [19112] info: nbmecore: initializing core library
+02/18/2022 20:17:34.973 [19112] error: nbmecore: MediaEngine\src\nbmecore\mesourceresolver.cpp:CMESourceResolver::beginCreateObjectFromURL(777): beginCreateObjectFromURL failed with URL='url=https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8', err=Scheme Is Not Supported
+02/18/2022 20:17:34.973 [19112] debug: mediaEngine: SchnittEngine\src\core\renderitem.cpp:CSERenderItem::loadSource(2325): MEErr = Scheme Is Not Supported
+02/18/2022 20:17:34.991 [19112] info: mediaEngine: shutting down mediaEngine instance
+02/18/2022 20:17:34.991 [19112] info: nbmecore: closing core library

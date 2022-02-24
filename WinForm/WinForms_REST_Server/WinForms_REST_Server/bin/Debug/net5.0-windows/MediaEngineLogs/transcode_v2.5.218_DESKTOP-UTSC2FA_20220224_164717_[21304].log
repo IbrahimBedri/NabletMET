@@ -1,0 +1,215 @@
+02/24/2022 15:47:17.469 [21304] info: nbmecore: ********************************************************************************
+02/24/2022 15:47:17.469 [21304] info: nbmecore: nablet MediaEngine Core
+02/24/2022 15:47:17.469 [21304] info: nbmecore: Version: 1.4.1993.0 (02/15/2022 00:07:37)
+02/24/2022 15:47:17.469 [21304] info: nbmecore: 
+02/24/2022 15:47:17.469 [21304] info: nbmecore: Windows Version: 6.02.9200
+02/24/2022 15:47:17.469 [21304] info: nbmecore: CPU: AMD Ryzen 5 3600 6-Core Processor              , Active Processors: 12
+02/24/2022 15:47:17.469 [21304] info: nbmecore: Host: DESKTOP-UTSC2FA
+02/24/2022 15:47:17.469 [21304] info: nbmecore: Application: 'transcode' v2.5.218
+02/24/2022 15:47:17.469 [21304] info: nbmecore: 
+02/24/2022 15:47:17.469 [21304] info: nbmecore: Date: 02/24/2022 16:47:17.469 [+1:00]
+02/24/2022 15:47:17.469 [21304] info: nbmecore: ********************************************************************************
+02/24/2022 15:47:17.469 [21304] info: nbmecore: 
+02/24/2022 15:47:17.470 [21304] info: nbmecore: ***************************************
+02/24/2022 15:47:17.470 [21304] info: nbmecore: TraceSetLevel=0
+02/24/2022 15:47:17.470 [21304] info: nbmecore: DebugSetLevel=0
+02/24/2022 15:47:17.470 [21304] info: nbmecore: InfoSetLevel=5
+02/24/2022 15:47:17.470 [21304] info: nbmecore: WarningSetLevel=0
+02/24/2022 15:47:17.470 [21304] info: nbmecore: ***************************************
+02/24/2022 15:47:17.470 [21304] info: nbmecore: initializing core library
+02/24/2022 15:47:17.501 [21304] info: nbmecore: Class library loaded: nablet AVFormat Demultiplexer
+02/24/2022 15:47:20.004 [21304] info: medmxavfmt_plugin: Found audio stream index=0, type=MEAudioFormat_MPEG4AAC
+02/24/2022 15:47:20.004 [21304] info: medmxavfmt_plugin: Found video stream index=1, type=MEVideoFormat_H264
+02/24/2022 15:47:20.004 [21304] info: medmxavfmt_plugin: Found video stream index=2, type=MEVideoFormat_H264
+02/24/2022 15:47:20.004 [21304] info: medmxavfmt_plugin: Found video stream index=3, type=MEVideoFormat_H264
+02/24/2022 15:47:20.004 [21304] info: medmxavfmt_plugin: Found video stream index=4, type=MEVideoFormat_H264
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: Found video stream index=5, type=MEVideoFormat_H264
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: Found video stream index=6, type=MEVideoFormat_H264
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =========
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: Metadata:
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =========
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----+-------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | key | Value |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----+-------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: 
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin:  Metadata Stream #0
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +----------+----------------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | key      | Value          |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +----------+----------------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | language | en             |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | comment  | English stereo |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +----------+----------------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: 
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin:  Metadata Stream #1
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+--------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | key             | Value  |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+--------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | variant_bitrate | 628000 |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+--------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: 
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin:  Metadata Stream #2
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+--------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | key             | Value  |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+--------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | variant_bitrate | 928000 |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+--------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: 
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin:  Metadata Stream #3
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+---------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | key             | Value   |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+---------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | variant_bitrate | 1728000 |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+---------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: 
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin:  Metadata Stream #4
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+---------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | key             | Value   |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+---------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | variant_bitrate | 2528000 |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+---------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: 
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin:  Metadata Stream #5
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+---------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | key             | Value   |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+---------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | variant_bitrate | 4928000 |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+---------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: 
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin:  Metadata Stream #6
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: =====================
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+---------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | key             | Value   |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+---------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: | variant_bitrate | 9728000 |
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: +-----------------+---------+
+02/24/2022 15:47:20.005 [21304] info: medmxavfmt_plugin: 
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.006 [21304] info: nbmecore:  Stream #0, id=0 audio index=0 
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Audio
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_SUBTYPE                    : MEAudioFormat_MPEG4AAC
+02/24/2022 15:47:20.006 [21304] info: nbmecore: 
+02/24/2022 15:47:20.006 [21304] info: nbmecore: Attributes:
+02/24/2022 15:47:20.006 [21304] info: nbmecore: -----------
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_AAC_PAYLOAD_TYPE           : kMEAACPayloadTypeADTS
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_AUDIO_NUM_CHANNELS         : 2
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_AUDIO_SAMPLES_PER_SECOND   : 48000
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_AVG_BITRATE                : 129 kbit/s
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_AUDIO_CHANNEL_MASK         : (FL|FR)
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_USER_DATA                  : present ( 16 byte(s))
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.006 [21304] info: nbmecore:  Stream #1, id=1 video index=0 
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/24/2022 15:47:20.006 [21304] info: nbmecore: 
+02/24/2022 15:47:20.006 [21304] info: nbmecore: Attributes:
+02/24/2022 15:47:20.006 [21304] info: nbmecore: -----------
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_FRAME_SIZE                 : 320x180 pixels
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_FRAME_RATE                 : 25 fps
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_AVG_BITRATE                : 628 kbit/s
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 16:9
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 1:1
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.006 [21304] info: nbmecore:  Stream #2, id=2 video index=1 
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/24/2022 15:47:20.006 [21304] info: nbmecore: 
+02/24/2022 15:47:20.006 [21304] info: nbmecore: Attributes:
+02/24/2022 15:47:20.006 [21304] info: nbmecore: -----------
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_FRAME_SIZE                 : 480x270 pixels
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_FRAME_RATE                 : 25 fps
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_AVG_BITRATE                : 928 kbit/s
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 16:9
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 1:1
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.006 [21304] info: nbmecore:  Stream #3, id=3 video index=2 
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/24/2022 15:47:20.006 [21304] info: nbmecore: 
+02/24/2022 15:47:20.006 [21304] info: nbmecore: Attributes:
+02/24/2022 15:47:20.006 [21304] info: nbmecore: -----------
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_FRAME_SIZE                 : 640x360 pixels
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_FRAME_RATE                 : 25 fps
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_AVG_BITRATE                : 1728 kbit/s
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 16:9
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 1:1
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.006 [21304] info: nbmecore:  Stream #4, id=4 video index=3 
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/24/2022 15:47:20.006 [21304] info: nbmecore: 
+02/24/2022 15:47:20.006 [21304] info: nbmecore: Attributes:
+02/24/2022 15:47:20.006 [21304] info: nbmecore: -----------
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_FRAME_SIZE                 : 960x540 pixels
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_FRAME_RATE                 : 25 fps
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_AVG_BITRATE                : 2528 kbit/s
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 16:9
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 1:1
+02/24/2022 15:47:20.006 [21304] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.007 [21304] info: nbmecore:  Stream #5, id=5 video index=4 
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/24/2022 15:47:20.007 [21304] info: nbmecore: 
+02/24/2022 15:47:20.007 [21304] info: nbmecore: Attributes:
+02/24/2022 15:47:20.007 [21304] info: nbmecore: -----------
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_FRAME_SIZE                 : 1280x720 pixels
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_FRAME_RATE                 : 25 fps
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_AVG_BITRATE                : 4928 kbit/s
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 16:9
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 1:1
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.007 [21304] info: nbmecore:  Stream #6, id=6 video index=5 
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ----------------------------------------------------------------------
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_MAJOR_TYPE                 : MEMediaType_Video
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_SUBTYPE                    : MEVideoFormat_H264
+02/24/2022 15:47:20.007 [21304] info: nbmecore: 
+02/24/2022 15:47:20.007 [21304] info: nbmecore: Attributes:
+02/24/2022 15:47:20.007 [21304] info: nbmecore: -----------
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_COMPRESSED                 : true
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_FRAME_SIZE                 : 1920x1080 pixels
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_FRAME_RATE                 : 25 fps
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_AVG_BITRATE                : 9728 kbit/s
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_DISPLAY_ASPECT_RATIO       : 16:9
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_PIXEL_ASPECT_RATIO         : 1:1
+02/24/2022 15:47:20.007 [21304] info: nbmecore: ME_MT_VIDEO_CHROMA_SITING        : kMEChromaSubsamplingMPEG2
+02/24/2022 15:47:20.007 [21304] info: medmxavfmt_plugin: ==============================================
+02/24/2022 15:47:20.007 [21304] info: medmxavfmt_plugin:  DMX AVFormat Source stats
+02/24/2022 15:47:20.007 [21304] info: medmxavfmt_plugin: ==============================================
+02/24/2022 15:47:20.007 [21304] info: medmxavfmt_plugin: Stream index=0, type=audio, sample count=0, total samples sent=0
+02/24/2022 15:47:20.007 [21304] info: medmxavfmt_plugin: Stream index=1, type=video, sample count=0, total samples sent=0
+02/24/2022 15:47:20.007 [21304] info: medmxavfmt_plugin: Stream index=2, type=video, sample count=0, total samples sent=0
+02/24/2022 15:47:20.007 [21304] info: medmxavfmt_plugin: Stream index=3, type=video, sample count=0, total samples sent=0
+02/24/2022 15:47:20.007 [21304] info: medmxavfmt_plugin: Stream index=4, type=video, sample count=0, total samples sent=0
+02/24/2022 15:47:20.007 [21304] info: medmxavfmt_plugin: Stream index=5, type=video, sample count=0, total samples sent=0
+02/24/2022 15:47:20.007 [21304] info: medmxavfmt_plugin: Stream index=6, type=video, sample count=0, total samples sent=0
+02/24/2022 15:47:20.017 [21304] info: mediaEngine: shutting down mediaEngine instance
+02/24/2022 15:47:20.017 [21304] info: nbmecore: closing core library

@@ -1,0 +1,64 @@
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.exe
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.deps.json
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.runtimeconfig.json
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.runtimeconfig.dev.json
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.dll
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\ref\WinForms_REST_Server.dll
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.pdb
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.AssemblyInfo.cs
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.dll
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\ref\WinForms_REST_Server.dll
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.pdb
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.genruntimeconfig.cache
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\NLog.dll
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\NLog.Windows.Forms.dll
+C:\Users\User\source\repos\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.MyForm1.resources
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.exe
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.deps.json
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.runtimeconfig.json
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.runtimeconfig.dev.json
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.dll
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\ref\WinForms_REST_Server.dll
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.pdb
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\NLog.dll
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\NLog.Windows.Forms.dll
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.csproj.AssemblyReference.cache
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.MyForm1.resources
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.csproj.GenerateResource.cache
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.AssemblyInfoInputs.cache
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.AssemblyInfo.cs
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.csproj.CopyComplete
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.dll
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\ref\WinForms_REST_Server.dll
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.pdb
+C:\Users\Ibrahim Bedri\Desktop\New folder (3)\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.genruntimeconfig.cache
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.exe
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.deps.json
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.runtimeconfig.json
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.runtimeconfig.dev.json
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.dll
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\ref\WinForms_REST_Server.dll
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\WinForms_REST_Server.pdb
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\NLog.dll
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\bin\Debug\net5.0-windows\NLog.Windows.Forms.dll
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.csproj.AssemblyReference.cache
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.MyForm1.resources
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.csproj.GenerateResource.cache
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.AssemblyInfoInputs.cache
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.AssemblyInfo.cs
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.dll
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\ref\WinForms_REST_Server.dll
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.pdb
+C:\Users\Ibrahim Bedri\Desktop\finalkod\WinForms_REST_Server\WinForms_REST_Server\obj\Debug\net5.0-windows\WinForms_REST_Server.genruntimeconfig.cache

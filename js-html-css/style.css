@@ -1,0 +1,268 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background-color: #fff;
+}
+
+h1,
+h2,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+  font-family: Montserrat;
+}
+
+h3 {
+  text-decoration: none;
+  font-weight: 700;
+  font-family: Montserrat;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.img-setting {
+  width: 170px;
+  max-width: 250px;
+  height: auto;
+}
+
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.container {
+  width: 1140px;
+  margin-left: auto;
+  margin-right: 550px;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+/*navbar#ec8c11*/
+
+nav {
+  width: 100%;
+  font-family: Montserrat;
+  background-image: linear-gradient(#ec8c11 15%, #f5d08c);
+  color: #fff;
+  padding-top: 2.4rem;
+  padding-bottom: 2.4rem;
+  position: fixed;
+  z-index: 1907;
+}
+
+#logo-box {
+  float: left;
+  padding-top: 0.5rem;
+}
+
+#logo-box .logo {
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+  font-size: 32px;
+  text-decoration: none;
+}
+
+#nav-links {
+  float: right;
+}
+
+#nav-links li {
+  float: left;
+  margin: 0.4rem;
+}
+
+#nav-links .nav-link {
+  color: rgb(255, 255, 255);
+  font-size: 1.6rem;
+  font-weight: 700;
+  display: block;
+  padding: 1.6rem;
+  letter-spacing: 0.1rem;
+  transition: 0.3s;
+}
+
+#nav-links .nav-link:hover {
+  color: #5f6062;
+}
+
+/*Header background-color: #f5d08c;*/
+
+header {
+  background-color: #f5d08c;
+  height: 1200px;
+  padding-top: calc(112px + 10rem);
+  padding-bottom: 112px;
+  text-align: center;
+}
+
+header h1 {
+  color: #fff;
+  font-size: 4.6rem;
+}
+
+header h2 {
+  color: #fff;
+  font-size: 2.4rem;
+  font-family: "Lato";
+  font-weight: 300;
+}
+
+.star-light {
+  border: none;
+  border-top: 0.4rem solid #fff;
+  max-width: 25rem;
+  margin: 2.5rem auto;
+  overflow: visible;
+  height: 0;
+}
+
+.star-light::after {
+  content: "\f005";
+  font-family: "Font Awesome 5 Free";
+  color: #fff;
+  font-weight: 900;
+  font-size: 3.2rem;
+  position: relative;
+  padding: 0 8px;
+  top: -26px;
+  background-color: #f5d08c;
+}
+
+/*Footer*/
+
+footer {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+  background-color: #5f6062;
+  color: #ffffff;
+  text-align: center;
+}
+
+.col {
+  float: left;
+  width: 33.3333%;
+  padding-bottom: 10px;
+}
+
+.footertext {
+  color: #959595;
+}
+
+.social-links {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.fab {
+  font-size: 40px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+footer ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+#tablo {
+  width: 100%;
+  font: bold 1.25em "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  border: 1px solid #f8b73f;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 6px 6px 6px 12px;
+  background: #c1dad7;
+  border-collapse: collapse;
+}
+
+#tablo th {
+  color: #157347;
+  padding: 6px 6px 6px 12px;
+}
+
+#tablo td {
+  padding: 6px 6px 6px 12px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+}
+#tablo tr {
+  color: #112233;
+  background: rgb(255, 255, 255);
+  text-align: center;
+}
+#tablo tr:hover {
+  background: #f5d08c;
+  color: rgb(63, 63, 63);
+}
+
+#tablo {
+  width: 100%;
+  font: bold 1.25em "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  border: 1px solid #f8b73f;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 6px 6px 6px 12px;
+  background: #c1dad7;
+  border-collapse: collapse;
+}
+
+#tablo2 th {
+  color: #157347;
+  padding: 6px 6px 6px 12px;
+}
+
+#tablo2 td {
+  padding: 6px 6px 6px 12px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+}
+#tablo2 tr {
+  color: #112233;
+  background: rgb(255, 255, 255);
+  text-align: center;
+}
+#tablo2 tr:hover {
+  background: #f5d08c;
+  color: rgb(63, 63, 63);
+}
+
+#tablo2 {
+  margin-top: 70px;
+  width: 100%;
+  font: bold 1.25em "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  border: 1px solid #f8b73f;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 6px 6px 6px 12px;
+  background: #c1dad7;
+  border-collapse: collapse;
+}

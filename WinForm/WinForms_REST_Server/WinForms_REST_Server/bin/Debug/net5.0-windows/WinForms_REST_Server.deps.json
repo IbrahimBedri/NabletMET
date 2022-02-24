@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinForms_REST_Server/1.0.0": {
+        "dependencies": {
+          "NLog": "4.7.13",
+          "NLog.Windows.Forms": "4.5.0",
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "runtime": {
+          "WinForms_REST_Server.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "NLog/4.7.13": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.13.493"
+          }
+        }
+      },
+      "NLog.Windows.Forms/4.5.0": {
+        "dependencies": {
+          "NLog": "4.7.13"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/NLog.Windows.Forms.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.5.0.398"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinForms_REST_Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "NLog/4.7.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AvoGpCuq36B+0wY313XA6gC+YeMvk24rqF8P+HS9fInBGOjCzPjpXp2ln9ATZjPOJtXgHfc8zNmTjyswFGLxvg==",
+      "path": "nlog/4.7.13",
+      "hashPath": "nlog.4.7.13.nupkg.sha512"
+    },
+    "NLog.Windows.Forms/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PuPq5CAwydKdIhlsfPcx8Q8/dQIRL8vKbyyj8n9rnDFfZmu4TuRH2pfLzzrCfcudN6wJnumxxCYhu5j4W6pHqw==",
+      "path": "nlog.windows.forms/4.5.0",
+      "hashPath": "nlog.windows.forms.4.5.0.nupkg.sha512"
+    }
+  }
+}
